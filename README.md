@@ -52,14 +52,18 @@
 |                  FILE                    |                                    DESCRIPTION                                    |
 | :--------------------------------------: | :-------------------------------------------------------------------------------: |
 |            [`main.h`](main.h)            |           *************************************************************           |
-|         [`_printf.c`](_printf.c)         |                               Main _printf function                               |
-| [`printf_fonction.c`](printf_fonction.c) |                          Contains all _printf functions                           |
-|      [`man_3_printf`](man_3_printf)      |                         man page of the _printf function                          |
+|         [`_printf.c`](_printf.c)         |                              main `_printf` function                              |
+| [`printf_fonction.c`](printf_fonction.c) |                         contains all `_printf` functions                          |
+|      [`man_3_printf`](man_3_printf)      |                        man page of the `_printf` function                         |
 |         [`README.md`](README.md)         |                                    README file                                    |
 
 <br />
 
 ## #️⃣ - Flowcharts -
+
+<br />
+
+<img width="1020px" height="600px" src="https://images.prismic.io/milanote/0b27fe8a-64e7-4bdb-bc22-94b2d0bee7f5_CleanShot+2023-06-06+at+15.27.55%402x.png?auto=compress%2Cformat&w=1200">
 
 <br />
 
