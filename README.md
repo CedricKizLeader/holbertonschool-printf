@@ -1,14 +1,25 @@
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="Logo" width="80" height="80">
-<center><font size="6"><b>_printf Project</b></font></center>
-<h3 align="center">Re-code all printf fonction in C.</h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="Logo" width="90" height="90">
+<br />
+<h3>PRINTF PROJECT</h3>
+<h3>Re-programming all printf fonction in C</h3>
 </div>
+
+---
+
+> [!NOTE]
+> GitHub repository : holbertonschool-printf
+
+---
+
 <br />
 
 ## :link: - Quick Links -
 * [Requirements for this project](#%EF%B8%8F⃣---requirements-for-this-project--)
 * [File descriptions](#%EF%B8%8F⃣---file-descriptions--)
 * [Team](#%EF%B8%8F⃣---team--)
+
+<br />
 
 ## #️⃣ - Requirements for this project -
 
@@ -30,11 +41,15 @@
 	* `va_copy` (`man 3 va_copy`)
 	* `va_arg` (`man 3 va_arg`)
 
+<br />
+
 ## #️⃣ - File descriptions -
 
-- [`main.h`](thomas/main.h)	  	:
-- [`_printf.c`](thomas/_printf.c) 	: Main printf function.
-- [`man_3_printf`](thomas/man_3_printf)	:
+- [`main.h`](main.h)			:
+- [`_printf.c`](_printf.c) 		: Main printf function.
+- [`man_3_printf`](man_3_printf)	:
+  
+<br />
 
 ## #️⃣ - Team -
 
@@ -44,4 +59,8 @@
 
 *CHLPAC Thomas		- [Github](https://github.com/ThomasC12000)*
 
-<p align="center">:mortar_board: - STUDENTS AT HOLBERTON SCHOOL - #C22</p>
+---
+
+<br />
+
+<p align="center">:mortar_board: - STUDENTS AT HOLBERTON SCHOOL TOULOUSE - #C22</p>
