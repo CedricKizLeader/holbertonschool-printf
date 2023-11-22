@@ -17,6 +17,7 @@
 ## :link: - Quick Links -
 * [Requirements for this project](#%EF%B8%8F⃣---requirements-for-this-project--)
 * [File descriptions](#%EF%B8%8F⃣---file-descriptions--)
+* [Flowcharts](#%EF%B8%8F⃣---flowcharts--)
 * [Team](#%EF%B8%8F⃣---team--)
 
 <br />
@@ -41,14 +42,25 @@
 	* `va_copy` (`man 3 va_copy`)
 	* `va_arg` (`man 3 va_arg`)
 
+> [!CAUTION]
+> Compilation command : `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -Wno-format *.c`
+
 <br />
 
 ## #️⃣ - File descriptions -
+	
+|                  FILE                    |                                    DESCRIPTION                                    |
+| :--------------------------------------: | :-------------------------------------------------------------------------------: |
+|            [`main.h`](main.h)            |           *************************************************************           |
+|         [`_printf.c`](_printf.c)         |                               Main _printf function                               |
+| [`printf_fonction.c`](printf_fonction.c) |                          Contains all _printf functions                           |
+|      [`man_3_printf`](man_3_printf)      |                         man page of the _printf function                          |
+|         [`README.md`](README.md)         |                                    README file                                    |
 
-- [`main.h`](main.h)			:
-- [`_printf.c`](_printf.c) 		: Main printf function.
-- [`man_3_printf`](man_3_printf)	:
-  
+<br />
+
+## #️⃣ - Flowcharts -
+
 <br />
 
 ## #️⃣ - Team -
