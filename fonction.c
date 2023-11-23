@@ -1,5 +1,4 @@
-#include <unistd.h>  // Ajout de l'en-tête pour la fonction write
-#include <stdarg.h>
+#include <main.h> 
 
 int _putchar(char c)
 {
