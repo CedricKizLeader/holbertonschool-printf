@@ -71,7 +71,7 @@
 
 *CHAUDERON Cédric	- [Github](https://github.com/cedricswing)*
 
-*Quaggio Mathys		- [Github](https://github.com/ThomasC12000)*
+*QUAGGIO Mathys		- [Github](https://github.com/Horalta)*
 
 *CHLPAC Thomas		- [Github](https://github.com/ThomasC12000)*
 
