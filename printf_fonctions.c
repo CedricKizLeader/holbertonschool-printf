@@ -2,8 +2,6 @@
 
 char *function_pourcent(void)
 {
-	char *string;
-
-	string ="%";
-	return (string);
+    _putchar('%');
+    return (1);
 }
