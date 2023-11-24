@@ -19,7 +19,7 @@ int _printf(const char *format, ...)
 		if (nextchar == 'c')
 			count += print_char(args);
 		if (nextchar == '%')
-			count += print_pourcent();
+			count += print_pourcent(args);
 		if (nextchar == 's')
 			count += print_string(args);
 
