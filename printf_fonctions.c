@@ -6,7 +6,7 @@ char *print_pourcent(void)
     return (1);
 }
 
-char *print_c(void)
+char *print_char(void)
 {
 	_putchar(va_args(args char));
 }
