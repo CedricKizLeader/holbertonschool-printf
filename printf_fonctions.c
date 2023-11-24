@@ -2,8 +2,8 @@
 
 int print_pourcent(va_list arguments)
 {
+	(void)arguments;
 	_putchar('%');
-
 	return (1);
 }
 
